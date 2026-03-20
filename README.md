@@ -33,5 +33,3 @@ The robot detects a human using sensors or camera input. Based on the detected p
 
  ## Author
  JONITA RACHEL S J
-## 👩‍💻 Author
-Your Name
